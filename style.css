@@ -17,3 +17,19 @@
 .span {
   size: 55px;
 }
+
+.colegio-1 {
+  font-size: 35px;
+  font-family: "Edu NSW ACT Foundation", cursive;
+}
+
+.color {
+  font-family: "Allan", serif;
+  font-style: normal;
+}
+
+.mapa {
+  margin-left: 700px;
+  font-size: 35px;
+  font-family: "Edu NSW ACT Foundation", cursive;
+}
